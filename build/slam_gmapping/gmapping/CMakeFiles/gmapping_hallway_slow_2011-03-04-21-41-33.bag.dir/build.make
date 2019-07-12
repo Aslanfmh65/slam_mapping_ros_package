@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/robond/Desktop/myrobot/catkin_ws/build
 include slam_gmapping/gmapping/CMakeFiles/gmapping_hallway_slow_2011-03-04-21-41-33.bag.dir/progress.make
 
 slam_gmapping/gmapping/CMakeFiles/gmapping_hallway_slow_2011-03-04-21-41-33.bag:
-	cd /home/robond/Desktop/myrobot/catkin_ws/build/slam_gmapping/gmapping && /opt/ros/kinetic/share/catkin/cmake/test/download_checkmd5.py http://download.ros.org/data/gmapping/hallway_slow_2011-03-04-21-41-33.bag /home/robond/Desktop/myrobot/catkin_ws/devel/share/gmapping/test/hallway_slow_2011-03-04-21-41-33.bag e772b89713693adc610f4c5b96f5dc03 --ignore-error
+	cd /home/robond/Desktop/myrobot/catkin_ws/build/slam_gmapping/gmapping && /usr/bin/python /opt/ros/kinetic/share/catkin/cmake/test/download_checkmd5.py http://download.ros.org/data/gmapping/hallway_slow_2011-03-04-21-41-33.bag /home/robond/Desktop/myrobot/catkin_ws/devel/share/gmapping/test/hallway_slow_2011-03-04-21-41-33.bag e772b89713693adc610f4c5b96f5dc03 --ignore-error
 
 gmapping_hallway_slow_2011-03-04-21-41-33.bag: slam_gmapping/gmapping/CMakeFiles/gmapping_hallway_slow_2011-03-04-21-41-33.bag
 gmapping_hallway_slow_2011-03-04-21-41-33.bag: slam_gmapping/gmapping/CMakeFiles/gmapping_hallway_slow_2011-03-04-21-41-33.bag.dir/build.make
